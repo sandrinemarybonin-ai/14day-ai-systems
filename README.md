@@ -62,3 +62,13 @@ http://127.0.0.1:8001/
 Notes:
 - Browser stores session_id in localStorage
 - Backend persists sessions to data/sessions.json
+
+## Day 9: Task-Executing AI Agent
+
+Run:
+python scripts/agent_cli.py
+
+Tools:
+- search_docs (local search over data/docs)
+- read_file / write_file (workspace only)
+- calculator
