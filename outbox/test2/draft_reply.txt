@@ -1,0 +1,9 @@
+```json
+{
+  "response": {
+    "subject": "Acknowledgment: Customer Complaints Summary Request",
+    "body": "Hi Alex,\n\nThank you for your request. I will prioritize compiling and analyzing last week's customer complaint data across all channels to identify the top 5 recurring issues and their frequency. I’ll draft a concise summary report with key trends, root causes, and proposed next steps for leadership review.\n\nI’ll aim to have this completed within the 4-hour SLA. Please let me know if you have any specific priorities or additional details to include.\n\nBest regards,\n[Your Name]",
+    "next_step": "Ask Alex if there are any specific priorities or additional details to include in the report."
+  }
+}
+```

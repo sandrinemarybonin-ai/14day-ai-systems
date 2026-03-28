@@ -1,0 +1,2 @@
+{"ok": false, "step": 2, "error": "Invalid JSON returned: Expecting value: line 1 column 1 (char 0)", "ts": 1774561129}
+{"ok": true, "file": "inbox\\test2.txt", "ts": 1774563583}
